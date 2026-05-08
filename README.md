@@ -13,7 +13,7 @@ Simply upload the frequency response measurement data (CSV) of headphones to aut
 After you upload the CSV files for the first time and successfully generate the headphone calibration files, the following URL will be automatically replaced with your own repository address. Enter it in **Headphone Calibration -> Headphone model -> Repo -> Import**:
 <!-- URL_START -->
 ```
-https://raw.githubusercontent.com/yokodev-pro/PrecisEQ-Repository-Generator/main/RepositoryFiles/
+https://raw.githubusercontent.com/yokodev-pro/PrecisEQ-Repository-SuperReview-Unofficial/main/RepositoryFiles/
 ```
 <!-- URL_END -->
 
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/yokodev-pro/PrecisEQ-Repository-Generator/main
 首次上传 CSV 文件并成功生成耳机校准文件后，以下链接会自动替换为你的仓库地址。在 **耳机校准 -> 耳机型号 -> 仓库 -> 导入** 填入：
 <!-- URL_START -->
 ```
-https://raw.githubusercontent.com/yokodev-pro/PrecisEQ-Repository-Generator/main/RepositoryFiles/
+https://raw.githubusercontent.com/yokodev-pro/PrecisEQ-Repository-SuperReview-Unofficial/main/RepositoryFiles/
 ```
 <!-- URL_END -->
 
