@@ -1,0 +1,10272 @@
+[
+  {
+    "id": "634earsmiroakii",
+    "type": 0,
+    "brandName": [
+      "634ears"
+    ],
+    "modelName": [
+      "MIROAK-II"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioa12tm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "A12t (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioa12tm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "A12t (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioa12tmxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "A12t (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioaspire1",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Aspire 1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioaspire2",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Aspire 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioaspire3",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Aspire 3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioaspire4",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Aspire 4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioduo",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Duo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiofourteblanc",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Fourte Blanc"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniofiraudioblackmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (Fir Audio black module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniofiraudioredmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (Fir Audio red module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniom12apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (m12 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniom15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniom20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audioniomxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Nio (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiosolo",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Solo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiotiafourte",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Tia Fourte"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiotiatrio",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Tia Trio"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou12tfiraudioredmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U12t (Fir Audio red module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou12tm12apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U12t (m12 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou12tm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U12t (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou12tm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U12t (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou12tmxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U12t (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou18sm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U18s (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou18tm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U18t (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou18tm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U18t (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou18tmxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U18t (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4sfiraudioblackmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (Fir Audio black module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4sfiraudioredmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (Fir Audio red module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4sm12apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (m12 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4sm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4sm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou4smxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U4S (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiou6tm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "U6t (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiovolurm12apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Volur (m12 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiovolurm15apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Volur (m15 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiovolurm20apexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Volur (m20 Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "64audiovolurmxapexmodule",
+    "type": 0,
+    "brandName": [
+      "64 Audio"
+    ],
+    "modelName": [
+      "Volur (mX Apex module)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "7hzsalnoteszero",
+    "type": 0,
+    "brandName": [
+      "7Hz"
+    ],
+    "modelName": [
+      "Salnotes Zero"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "7hztimeless",
+    "type": 0,
+    "brandName": [
+      "7Hz"
+    ],
+    "modelName": [
+      "Timeless"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "7hzxcrinaclezero2",
+    "type": 0,
+    "brandName": [
+      "7Hz x Crinacle"
+    ],
+    "modelName": [
+      "Zero 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "7thacousticsproxima",
+    "type": 0,
+    "brandName": [
+      "7th Acoustics"
+    ],
+    "modelName": [
+      "Proxima"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "7thacousticssupernova",
+    "type": 0,
+    "brandName": [
+      "7th Acoustics"
+    ],
+    "modelName": [
+      "Supernova"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "acoustunersone",
+    "type": 0,
+    "brandName": [
+      "Acoustune"
+    ],
+    "modelName": [
+      "RS ONE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulacousticscantor",
+    "type": 0,
+    "brandName": [
+      "AFUL Acoustics"
+    ],
+    "modelName": [
+      "Cantor"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulacousticsmagicone",
+    "type": 0,
+    "brandName": [
+      "AFUL Acoustics"
+    ],
+    "modelName": [
+      "MagicOne"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulacousticsperformer52",
+    "type": 0,
+    "brandName": [
+      "AFUL Acoustics"
+    ],
+    "modelName": [
+      "Performer 5+2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulexplorer",
+    "type": 0,
+    "brandName": [
+      "AFUL"
+    ],
+    "modelName": [
+      "Explorer"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulperformer5",
+    "type": 0,
+    "brandName": [
+      "AFUL"
+    ],
+    "modelName": [
+      "Performer 5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "afulperformer8",
+    "type": 0,
+    "brandName": [
+      "AFUL"
+    ],
+    "modelName": [
+      "Performer 8"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akgk371",
+    "type": 2,
+    "brandName": [
+      "AKG"
+    ],
+    "modelName": [
+      "K371"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akgk712",
+    "type": 1,
+    "brandName": [
+      "AKG"
+    ],
+    "modelName": [
+      "K712"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akgk7xx",
+    "type": 1,
+    "brandName": [
+      "AKG"
+    ],
+    "modelName": [
+      "K7XX"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akgq701",
+    "type": 1,
+    "brandName": [
+      "AKG"
+    ],
+    "modelName": [
+      "Q701"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akoustyxr120",
+    "type": 0,
+    "brandName": [
+      "Akoustyx"
+    ],
+    "modelName": [
+      "R-120"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akoustyxr220",
+    "type": 0,
+    "brandName": [
+      "Akoustyx"
+    ],
+    "modelName": [
+      "R-220"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "akoustyxs6",
+    "type": 0,
+    "brandName": [
+      "Akoustyx"
+    ],
+    "modelName": [
+      "S-6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "alphaomegaomegaoffoffoff",
+    "type": 0,
+    "brandName": [
+      "Alpha"
+    ],
+    "modelName": [
+      "Omega Omega (off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "alphaomegaomegaonoffoff",
+    "type": 0,
+    "brandName": [
+      "Alpha"
+    ],
+    "modelName": [
+      "Omega Omega on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "alphaomegaomegaononoff",
+    "type": 0,
+    "brandName": [
+      "Alpha"
+    ],
+    "modelName": [
+      "Omega Omega (on-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "alphaomegaomegaononon",
+    "type": 0,
+    "brandName": [
+      "Alpha"
+    ],
+    "modelName": [
+      "Omega Omega (on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "alphaomegara",
+    "type": 0,
+    "brandName": [
+      "Alpha"
+    ],
+    "modelName": [
+      "Omega Ra"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "appleairpodspro",
+    "type": 0,
+    "brandName": [
+      "Apple"
+    ],
+    "modelName": [
+      "AirPods Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "arpegearhaneoffoffoffoff",
+    "type": 0,
+    "brandName": [
+      "Arpegear"
+    ],
+    "modelName": [
+      "Hane (off-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "arpegearhaneoffoffoffon",
+    "type": 0,
+    "brandName": [
+      "Arpegear"
+    ],
+    "modelName": [
+      "Hane (off-off-off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "arpegearhaneoffoffonoff",
+    "type": 0,
+    "brandName": [
+      "Arpegear"
+    ],
+    "modelName": [
+      "Hane (off-off-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "arpegearhaneoffonoffoff",
+    "type": 0,
+    "brandName": [
+      "Arpegear"
+    ],
+    "modelName": [
+      "Hane (off-on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "arpegearhaneonoffoffoff",
+    "type": 0,
+    "brandName": [
+      "Arpegear"
+    ],
+    "modelName": [
+      "Hane (on-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "audezelcd2closedback",
+    "type": 2,
+    "brandName": [
+      "Audeze"
+    ],
+    "modelName": [
+      "LCD-2 Closed Back"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "audezemm500",
+    "type": 1,
+    "brandName": [
+      "Audeze"
+    ],
+    "modelName": [
+      "MM-500"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "audiosenseaq7",
+    "type": 0,
+    "brandName": [
+      "Audiosense"
+    ],
+    "modelName": [
+      "AQ7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "audiosensedt200",
+    "type": 0,
+    "brandName": [
+      "Audiosense"
+    ],
+    "modelName": [
+      "DT200"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "audiosenset180",
+    "type": 0,
+    "brandName": [
+      "Audiosense"
+    ],
+    "modelName": [
+      "T180"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "auglamourf300",
+    "type": 0,
+    "brandName": [
+      "AuGlamour"
+    ],
+    "modelName": [
+      "F300"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "auglamourrt3",
+    "type": 0,
+    "brandName": [
+      "AuGlamour"
+    ],
+    "modelName": [
+      "RT-3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "aunejasper",
+    "type": 0,
+    "brandName": [
+      "AUNE"
+    ],
+    "modelName": [
+      "Jasper"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "auribusacousticseverest",
+    "type": 1,
+    "brandName": [
+      "Auribus Acoustics"
+    ],
+    "modelName": [
+      "Everest"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "auribusacousticssierraopen",
+    "type": 1,
+    "brandName": [
+      "Auribus Acoustics"
+    ],
+    "modelName": [
+      "Sierra Open"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "austrianaudiohix60",
+    "type": 2,
+    "brandName": [
+      "Austrian Audio"
+    ],
+    "modelName": [
+      "Hi-X60"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "beyerdynamicdt770pro32ohm",
+    "type": 2,
+    "brandName": [
+      "Beyerdynamic"
+    ],
+    "modelName": [
+      "DT 770 Pro (32 ohm)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "beyerdynamicdt880600ohm",
+    "type": 1,
+    "brandName": [
+      "Beyerdynamic"
+    ],
+    "modelName": [
+      "DT 880 (600 ohm)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "beyerdynamicdt900prox",
+    "type": 1,
+    "brandName": [
+      "Beyerdynamic"
+    ],
+    "modelName": [
+      "DT 900 Pro X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpdm6",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "DM6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpdm8",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "DM8"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpdm9",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "DM9"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpdma",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "DMA"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpdmgsilver",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "DMG (silver)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpmelodybalancednozzle",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "Melody (balanced nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpmelodyhifinozzle",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "Melody (hifi nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpmelodypopnozzle",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "Melody (pop nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpns9blackeartips",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "NS9 (black eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpns9grayfilter",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "NS9 (gray filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpns9nomeshblackeartips",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "NS9 (no mesh, black eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpns9redfilter",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "NS9 (red filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpns9silverfilter",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "NS9 (silver filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bgvpphantom",
+    "type": 0,
+    "brandName": [
+      "BGVP"
+    ],
+    "modelName": [
+      "Phantom"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "binaryacousticsdynaquattro",
+    "type": 0,
+    "brandName": [
+      "Binary Acoustics"
+    ],
+    "modelName": [
+      "Dynaquattro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "binaryacousticsxgizaudiochopin",
+    "type": 0,
+    "brandName": [
+      "Binary Acoustics"
+    ],
+    "modelName": [
+      "x Gizaudio Chopin"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "blonbl03",
+    "type": 0,
+    "brandName": [
+      "BLON"
+    ],
+    "modelName": [
+      "BL-03"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "blonbl05",
+    "type": 0,
+    "brandName": [
+      "BLON"
+    ],
+    "modelName": [
+      "BL-05"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "blonbla8prometheus",
+    "type": 0,
+    "brandName": [
+      "BLON"
+    ],
+    "modelName": [
+      "BL-A8 Prometheus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "blonxhbbz300",
+    "type": 0,
+    "brandName": [
+      "BLON x HBB"
+    ],
+    "modelName": [
+      "Z300"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bqeyzautumnbassfilter",
+    "type": 0,
+    "brandName": [
+      "BQEYZ"
+    ],
+    "modelName": [
+      "Autumn (bass filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bqeyzautumnnofilter",
+    "type": 0,
+    "brandName": [
+      "BQEYZ"
+    ],
+    "modelName": [
+      "Autumn (no filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bqeyzautumnnormalfilter",
+    "type": 0,
+    "brandName": [
+      "BQEYZ"
+    ],
+    "modelName": [
+      "Autumn (normal filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bqeyzautumntreblefilter",
+    "type": 0,
+    "brandName": [
+      "BQEYZ"
+    ],
+    "modelName": [
+      "Autumn (treble filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "bqeyzfrost",
+    "type": 0,
+    "brandName": [
+      "BQEYZ"
+    ],
+    "modelName": [
+      "Frost"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "brainwavzkoel",
+    "type": 0,
+    "brandName": [
+      "Brainwavz"
+    ],
+    "modelName": [
+      "Koel"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudioandromeda2020",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Andromeda 2020"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudioandromedapre2020",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Andromeda (pre-2020)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudioara",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Ara"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudiodorado2020",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Dorado 2020"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudiomoonrover",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Moon Rover"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudioonyx",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Onyx"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "campfireaudiopathfinder",
+    "type": 0,
+    "brandName": [
+      "Campfire Audio"
+    ],
+    "modelName": [
+      "Pathfinder"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "canpurcp622b",
+    "type": 0,
+    "brandName": [
+      "Canpur"
+    ],
+    "modelName": [
+      "CP622B"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "cayinfantasy",
+    "type": 0,
+    "brandName": [
+      "Cayin"
+    ],
+    "modelName": [
+      "Fantasy"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccac10",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "C10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccacra",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "CRA"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccahydrooffoffoffoff",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "Hydro (off-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccahydrooffoffonon",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "Hydro (off-off-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccahydroononoffoff",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "Hydro (on-on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ccahydroonononon",
+    "type": 0,
+    "brandName": [
+      "CCA"
+    ],
+    "modelName": [
+      "Hydro (on-on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "cczplume",
+    "type": 0,
+    "brandName": [
+      "CCZ"
+    ],
+    "modelName": [
+      "Plume"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "codonguribrass",
+    "type": 0,
+    "brandName": [
+      "Co-Donguri"
+    ],
+    "modelName": [
+      "Brass"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "codongurishizuku",
+    "type": 0,
+    "brandName": [
+      "Co-Donguri"
+    ],
+    "modelName": [
+      "Shizuku"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "colorflyquintet",
+    "type": 0,
+    "brandName": [
+      "Colorfly"
+    ],
+    "modelName": [
+      "Quintet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "colorflysilverreference",
+    "type": 0,
+    "brandName": [
+      "Colorfly"
+    ],
+    "modelName": [
+      "Silver Reference"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "creativeaurvanalive",
+    "type": 2,
+    "brandName": [
+      "Creative"
+    ],
+    "modelName": [
+      "Aurvana Live!"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "creativeaurvanalivebrainwavzsmallovalperforatedearpads",
+    "type": 2,
+    "brandName": [
+      "Creative"
+    ],
+    "modelName": [
+      "Aurvana Live! (Brainwavz small oval perforated earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "crineardaybreak",
+    "type": 0,
+    "brandName": [
+      "CrinEar"
+    ],
+    "modelName": [
+      "Daybreak"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "crinearmeta",
+    "type": 0,
+    "brandName": [
+      "CrinEar"
+    ],
+    "modelName": [
+      "Meta"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "customartfibae7unlimited",
+    "type": 0,
+    "brandName": [
+      "Custom"
+    ],
+    "modelName": [
+      "Art FIBAE 7 Unlimited"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "danclarkaudioe3",
+    "type": 2,
+    "brandName": [
+      "Dan"
+    ],
+    "modelName": [
+      "Clark Audio E3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "danclarkaudioexpanse",
+    "type": 1,
+    "brandName": [
+      "Dan"
+    ],
+    "modelName": [
+      "Clark Audio EXPANSE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "danclarkaudiostealth",
+    "type": 2,
+    "brandName": [
+      "Dan"
+    ],
+    "modelName": [
+      "Clark Audio Stealth"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ditaaudiomecha",
+    "type": 0,
+    "brandName": [
+      "Dita Audio"
+    ],
+    "modelName": [
+      "Mecha"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dmsprojectomega",
+    "type": 1,
+    "brandName": [
+      "DMS"
+    ],
+    "modelName": [
+      "Project Omega"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunudk3001bd",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "DK3001BD"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuest112",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "EST 112"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunufalconproatmosphericimmersionfilter",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Falcon Pro (Atmospheric Immersion filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunufalconproreferencefilter",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Falcon Pro (Reference filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunufalconprotransparencyfilter",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Falcon Pro (Transparency filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunufalconultrabluenozzle",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Falcon Ultra (blue nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunufalconultragoldnozzle",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Falcon Ultra (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuglacier",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Glacier"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunukima",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Kima"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunukima2",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Kima 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunumirai",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Mirai"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa3",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6atmosphericimmersionmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 (atmospheric Immersion mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6defaultmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 (default mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6est",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 EST"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6mk2atmosphericimmersionmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 MK2 (Atmospheric Immersion mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6mk2defaultmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 MK2 (default mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6ultraatmosphericimmersionmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 Ultra (atmospheric immersion mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunusa6ultradefaultmode",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "SA6 Ultra (default mode)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunutalosbaoff",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Talos (BA off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunutalosbaon",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Talos (BA on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunutitans2",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Titan S2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuvulkan",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Vulkan"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuvulkangrayeartips",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Vulkan (gray eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuvulkanredeartips",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Vulkan (red eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuxgizaudiodavinci",
+    "type": 0,
+    "brandName": [
+      "DUNU x Gizaudio"
+    ],
+    "modelName": [
+      "DaVinci"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuzen",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Zen"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "dunuzenpro",
+    "type": 0,
+    "brandName": [
+      "DUNU"
+    ],
+    "modelName": [
+      "Zen Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "earfunfreeprooluveditionancoff",
+    "type": 0,
+    "brandName": [
+      "EarFun"
+    ],
+    "modelName": [
+      "Free Pro (Oluv Edition, ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "earfunfreeprooluveditionancon",
+    "type": 0,
+    "brandName": [
+      "EarFun"
+    ],
+    "modelName": [
+      "Free Pro (Oluv Edition, ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "effectaudioaxiom",
+    "type": 0,
+    "brandName": [
+      "Effect Audio"
+    ],
+    "modelName": [
+      "Axiom"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "effectaudioxelysiangaea",
+    "type": 0,
+    "brandName": [
+      "Effect Audio"
+    ],
+    "modelName": [
+      "x Elysian Gaea"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysianannihilator2023",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Annihilator (2023)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysiandiva2023blueswitch",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Diva 2023 (blue switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysiandiva2023redswitch",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Diva 2023 (red switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysiandiva2023whiteswitch",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Diva 2023 (white switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysianpilgrim",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Pilgrim"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "elysianpilgrimnoir",
+    "type": 0,
+    "brandName": [
+      "Elysian"
+    ],
+    "modelName": [
+      "Pilgrim Noir"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "empireearsbravadomk2",
+    "type": 0,
+    "brandName": [
+      "Empire Ears"
+    ],
+    "modelName": [
+      "Bravado Mk2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "empireearsesrmk2",
+    "type": 0,
+    "brandName": [
+      "Empire Ears"
+    ],
+    "modelName": [
+      "ESR Mk2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "empireearslegendevo",
+    "type": 0,
+    "brandName": [
+      "Empire Ears"
+    ],
+    "modelName": [
+      "Legend EVO"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "empireearslegendraven",
+    "type": 0,
+    "brandName": [
+      "Empire Ears"
+    ],
+    "modelName": [
+      "Legend Raven"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "empireearsvalkyriemkii",
+    "type": 0,
+    "brandName": [
+      "Empire Ears"
+    ],
+    "modelName": [
+      "Valkyrie MKII"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epz530",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "530"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzg10",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "G10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzk5",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "K5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzk9",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "K9"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzp50",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "P50"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzq1pro",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "Q1 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "epzq5",
+    "type": 0,
+    "brandName": [
+      "EPZ"
+    ],
+    "modelName": [
+      "Q5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etao2",
+    "type": 1,
+    "brandName": [
+      "ETA"
+    ],
+    "modelName": [
+      "O2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer2se",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER2SE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer2xr",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER2XR"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer2xrbrownfilter",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER2XR (brown filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer2xrgreenfilter",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER2XR (green filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer2xrwhitefilter",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER2XR (white filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer4s",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER4S"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer4xr2flangeeartips",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER4XR (2-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer4xr3flangeeartips",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER4XR (3-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticer4xrfoameartips",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ER4XR (foam eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticerxbrownfilter",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ERX (brown filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticerxgreenfilter",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ERX (green filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticetykids",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "ETY Kids"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticevo2flangeeartips",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "Evo (2-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticevo3flangeeartips",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "Evo (3-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "etymoticmk5isolator",
+    "type": 0,
+    "brandName": [
+      "Etymotic"
+    ],
+    "modelName": [
+      "mk5 Isolator"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fatfreqgrandmaestrodown",
+    "type": 0,
+    "brandName": [
+      "Fatfreq"
+    ],
+    "modelName": [
+      "Grand Maestro (down)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fatfreqgrandmaestroup",
+    "type": 0,
+    "brandName": [
+      "Fatfreq"
+    ],
+    "modelName": [
+      "Grand Maestro (up)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fatfreqxhbbdeuce",
+    "type": 0,
+    "brandName": [
+      "Fatfreq x HBB"
+    ],
+    "modelName": [
+      "Deuce"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofa1",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FA1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofa19off",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FA19 (off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofa19on",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FA19 (on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd11",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD11"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd3basseartips",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD3 (bass eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd3blacknozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD3 (black nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd3foameartips",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD3 (foam eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd3stocknozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD3 (stock nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd3vocaleartips",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD3 (vocal eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd5narrownozzle3flangeeartips",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD5 (narrow nozzle, 3-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd5stocknozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD5 (stock nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd7",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd7balanced",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD7 (balanced)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd7balancednozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD7 (balanced nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd7bassnozzle3flangeeartips",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD7 (bass nozzle, 3-flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofd7treblenozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FD7 (treble nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh1",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh11",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH11"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh15balancednozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH15 (balanced nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh15bassnozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH15 (bass nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh15treblenozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH15 (treble nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh3",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5soffoffoff",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5s (off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5soffoffon",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5s (off-off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5soffonoff",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5s (off-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5sonoffoff",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5s (on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh5sononon",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH5s (on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh7sbalancednozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH7s (balanced nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh7sbassnozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH7s (bass nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofh7streblenozzle",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FH7s (treble nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofheeclipse",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FHE Eclipse"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft1",
+    "type": 2,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft1pro",
+    "type": 2,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT1 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft5pleatherearpads",
+    "type": 1,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT5 (pleather earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft5suedeearpads",
+    "type": 1,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT5 (suede earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft7fabricearpads",
+    "type": 1,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT7 (fabric earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiioft7leatherearpads",
+    "type": 1,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FT7 (leather earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofw5",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FW5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofx15off",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FX15 (off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiofx15on",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "FX15 (on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fiiojh5",
+    "type": 0,
+    "brandName": [
+      "FiiO"
+    ],
+    "modelName": [
+      "JH5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioa4000",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "A4000"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudiob3finalaudiotwseartips",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "B3 (Final Audio TWS eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudiob3finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "B3 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioe1000finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "E1000 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioe2000",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "E2000"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioe500",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "E500"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioux3000",
+    "type": 2,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "UX3000"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioux3000svanalogconnection",
+    "type": 2,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "UX3000 SV (analog connection)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioux3000svancoff",
+    "type": 2,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "UX3000 SV (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudioux3000svancon",
+    "type": 2,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "UX3000 SV (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "finalaudiovr3000",
+    "type": 0,
+    "brandName": [
+      "Final Audio"
+    ],
+    "modelName": [
+      "VR3000"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologydd31",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology DD31"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgoldblackgunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gold, black, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgoldblackred",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gold, black, red)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgoldblacktransparent",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gold, black, transparent)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgoldgraygunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gold, gray, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgoldwhitegunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gold, white, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgreengraygunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (green, gray, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgunmetalblackgunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gunmetal, black, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8pgunmetalgraygunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (gunmetal, gray, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "flctechnologyflc8psilvergraygunmetal",
+    "type": 0,
+    "brandName": [
+      "FLC"
+    ],
+    "modelName": [
+      "Technology FLC8P (silver, gray, gunmetal)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalazurys",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Azurys"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalbathysusb",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Bathys (USB)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalbathyswired",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Bathys (wired)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalbathyswireless",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Bathys (wireless)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalcelestee",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Celestee"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalclearmgprofessional",
+    "type": 1,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Clear MG Professional"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalelex",
+    "type": 1,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Elex"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalelexwornearpads",
+    "type": 1,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Elex (worn earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalradiance",
+    "type": 2,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Radiance"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "focalutopia2022",
+    "type": 1,
+    "brandName": [
+      "Focal"
+    ],
+    "modelName": [
+      "Utopia 2022"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fosiaudioi5",
+    "type": 1,
+    "brandName": [
+      "Fosi Audio"
+    ],
+    "modelName": [
+      "i5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "fostext50rpmk4",
+    "type": 1,
+    "brandName": [
+      "Fostex"
+    ],
+    "modelName": [
+      "T50RP Mk4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gradogw100bluetooth",
+    "type": 1,
+    "brandName": [
+      "Grado"
+    ],
+    "modelName": [
+      "GW100 (bluetooth)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gradogw100wired",
+    "type": 1,
+    "brandName": [
+      "Grado"
+    ],
+    "modelName": [
+      "GW100 (wired)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gradosr80lcushearpads",
+    "type": 1,
+    "brandName": [
+      "Grado"
+    ],
+    "modelName": [
+      "SR80 (L-Cush earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gradosr80scushearpads",
+    "type": 1,
+    "brandName": [
+      "Grado"
+    ],
+    "modelName": [
+      "SR80 (S-Cush earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gsaudiogd3a",
+    "type": 0,
+    "brandName": [
+      "GS Audio"
+    ],
+    "modelName": [
+      "GD3A"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gsaudiogd3c",
+    "type": 0,
+    "brandName": [
+      "GS Audio"
+    ],
+    "modelName": [
+      "GD3C"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "gsaudiose11",
+    "type": 0,
+    "brandName": [
+      "GS Audio"
+    ],
+    "modelName": [
+      "SE11"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "harmonicdynepd1",
+    "type": 0,
+    "brandName": [
+      "HarmonicDyne"
+    ],
+    "modelName": [
+      "P.D.1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "harmonicdyneposeidon",
+    "type": 1,
+    "brandName": [
+      "HarmonicDyne"
+    ],
+    "modelName": [
+      "Poseidon"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "harmonicdynezeus",
+    "type": 1,
+    "brandName": [
+      "HarmonicDyne"
+    ],
+    "modelName": [
+      "Zeus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "harmonicdynezeuselite",
+    "type": 1,
+    "brandName": [
+      "HarmonicDyne"
+    ],
+    "modelName": [
+      "Zeus Elite"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "haylougt1",
+    "type": 0,
+    "brandName": [
+      "Haylou"
+    ],
+    "modelName": [
+      "GT1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "haylougt2",
+    "type": 0,
+    "brandName": [
+      "Haylou"
+    ],
+    "modelName": [
+      "GT2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "heddaudioheddphonetwogtleatherearpads",
+    "type": 1,
+    "brandName": [
+      "HEDD Audio"
+    ],
+    "modelName": [
+      "HEDDphone Two GT (leather earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "heddheddphone2",
+    "type": 1,
+    "brandName": [
+      "HEDD"
+    ],
+    "modelName": [
+      "Heddphone 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "heddheddphonetwogtleatherearpads",
+    "type": 1,
+    "brandName": [
+      "HEDD"
+    ],
+    "modelName": [
+      "HEDDphone Two GT (leather earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "heddheddphonetwogtsuedeearpads",
+    "type": 1,
+    "brandName": [
+      "HEDD"
+    ],
+    "modelName": [
+      "HEDDphone Two GT (suede earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hibycrystal6",
+    "type": 0,
+    "brandName": [
+      "HiBy"
+    ],
+    "modelName": [
+      "Crystal 6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hibycrystal6ii",
+    "type": 0,
+    "brandName": [
+      "HiBy"
+    ],
+    "modelName": [
+      "Crystal 6 II"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hibyxoe",
+    "type": 0,
+    "brandName": [
+      "HiBy"
+    ],
+    "modelName": [
+      "XOE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hibyyacht10",
+    "type": 0,
+    "brandName": [
+      "HiBy"
+    ],
+    "modelName": [
+      "Yacht 10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiditionviolet",
+    "type": 0,
+    "brandName": [
+      "Hidition"
+    ],
+    "modelName": [
+      "Violet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hififoralldahliabalancedresonator",
+    "type": 1,
+    "brandName": [
+      "HIFI"
+    ],
+    "modelName": [
+      "FOR ALL Dahlia (balanced resonator)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hififoralldahliadynamicresonator",
+    "type": 1,
+    "brandName": [
+      "HIFI"
+    ],
+    "modelName": [
+      "FOR ALL Dahlia (dynamic resonator)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hifimananandanano",
+    "type": 1,
+    "brandName": [
+      "HIFIMAN"
+    ],
+    "modelName": [
+      "Ananda Nano"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hifimanbolt",
+    "type": 0,
+    "brandName": [
+      "HIFIMAN"
+    ],
+    "modelName": [
+      "Bolt"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hifimaneditionxs",
+    "type": 1,
+    "brandName": [
+      "HIFIMAN"
+    ],
+    "modelName": [
+      "Edition XS"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hifimansundara",
+    "type": 1,
+    "brandName": [
+      "HIFIMAN"
+    ],
+    "modelName": [
+      "Sundara"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hifriaudioaphex",
+    "type": 0,
+    "brandName": [
+      "Hi-Fri Audio"
+    ],
+    "modelName": [
+      "Aphex"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniorcanocristales",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Cano Cristales"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniormega5est",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Mega 5 EST"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniormega5estbass",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Mega 5 EST Bass+"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniormega5estsample1",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Mega 5 EST (sample 1)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniormega5estsample2",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Mega 5 EST (sample 2)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniorokavangooffoff",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Okavango (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniorokavangoonoff",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Okavango (on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hiseniorokavangoonon",
+    "type": 0,
+    "brandName": [
+      "Hisenior"
+    ],
+    "modelName": [
+      "Okavango (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hzsoundheartmirror",
+    "type": 0,
+    "brandName": [
+      "HZSOUND"
+    ],
+    "modelName": [
+      "Heart Mirror"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "hzsoundheartmirrorzero",
+    "type": 0,
+    "brandName": [
+      "HZSOUND"
+    ],
+    "modelName": [
+      "Heart Mirror Zero"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ibassoit01x",
+    "type": 0,
+    "brandName": [
+      "iBasso"
+    ],
+    "modelName": [
+      "IT01X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "icelabspectrumicaorangeeartips",
+    "type": 0,
+    "brandName": [
+      "Ice"
+    ],
+    "modelName": [
+      "Lab Spectrumica (orange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "icelabspectrumicapurpleeartips",
+    "type": 0,
+    "brandName": [
+      "Ice"
+    ],
+    "modelName": [
+      "Lab Spectrumica (purple eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ikfy3",
+    "type": 2,
+    "brandName": [
+      "iKF"
+    ],
+    "modelName": [
+      "Y3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ikkooh1",
+    "type": 0,
+    "brandName": [
+      "IKKO"
+    ],
+    "modelName": [
+      "OH1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ikkooh10",
+    "type": 0,
+    "brandName": [
+      "IKKO"
+    ],
+    "modelName": [
+      "OH10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ikkooh1s",
+    "type": 0,
+    "brandName": [
+      "IKKO"
+    ],
+    "modelName": [
+      "OH1S"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ikkooh2",
+    "type": 0,
+    "brandName": [
+      "IKKO"
+    ],
+    "modelName": [
+      "OH2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "intimesora",
+    "type": 0,
+    "brandName": [
+      "Intime"
+    ],
+    "modelName": [
+      "Sora"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "intimesoralight",
+    "type": 0,
+    "brandName": [
+      "Intime"
+    ],
+    "modelName": [
+      "Sora Light"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ioaudiosogno",
+    "type": 0,
+    "brandName": [
+      "IO Audio"
+    ],
+    "modelName": [
+      "Sogno"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ioaudiovolare",
+    "type": 0,
+    "brandName": [
+      "IO Audio"
+    ],
+    "modelName": [
+      "Volare"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jhaudiolaylaaionminbass",
+    "type": 0,
+    "brandName": [
+      "JH Audio"
+    ],
+    "modelName": [
+      "Layla AION (min bass)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jmaudioeditionsxtc25closed",
+    "type": 2,
+    "brandName": [
+      "JM Audio"
+    ],
+    "modelName": [
+      "Editions XTC^2.5 Closed"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "juzear41t",
+    "type": 0,
+    "brandName": [
+      "Juzear"
+    ],
+    "modelName": [
+      "41T"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "juzear61t",
+    "type": 0,
+    "brandName": [
+      "Juzear"
+    ],
+    "modelName": [
+      "61T"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "juzear81t",
+    "type": 0,
+    "brandName": [
+      "Juzear"
+    ],
+    "modelName": [
+      "81T"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "juzearxzreviewsdefiant",
+    "type": 0,
+    "brandName": [
+      "Juzear x Z"
+    ],
+    "modelName": [
+      "Reviews Defiant"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jvchafdx1blue",
+    "type": 0,
+    "brandName": [
+      "JVC"
+    ],
+    "modelName": [
+      "HA-FDX1 (blue)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jvchafdx1green",
+    "type": 0,
+    "brandName": [
+      "JVC"
+    ],
+    "modelName": [
+      "HA-FDX1 (green)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jvchafdx1white",
+    "type": 0,
+    "brandName": [
+      "JVC"
+    ],
+    "modelName": [
+      "HA-FDX1 (white)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jvchafwx1",
+    "type": 0,
+    "brandName": [
+      "JVC"
+    ],
+    "modelName": [
+      "HA-FWX1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "jvchafx7gumy",
+    "type": 0,
+    "brandName": [
+      "JVC"
+    ],
+    "modelName": [
+      "HA-FX7 Gumy"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kbearbelieve",
+    "type": 0,
+    "brandName": [
+      "KBEAR"
+    ],
+    "modelName": [
+      "Believe"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kbeardiamond",
+    "type": 0,
+    "brandName": [
+      "KBEAR"
+    ],
+    "modelName": [
+      "Diamond"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kbearks2",
+    "type": 0,
+    "brandName": [
+      "KBEAR"
+    ],
+    "modelName": [
+      "KS2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinedelci",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Delci"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinedelciaegoldnozzle",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Delci AE (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinedelciaesilvernozzle",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Delci AE (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinequatioblacknozzle",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Quatio (black nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinequatiogoldnozzle",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Quatio (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kefinequatiosilvernozzle",
+    "type": 0,
+    "brandName": [
+      "KEFINE"
+    ],
+    "modelName": [
+      "Quatio (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kineracelestwyvernabyss",
+    "type": 0,
+    "brandName": [
+      "Kinera"
+    ],
+    "modelName": [
+      "Celest Wyvern Abyss"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kineracelestwyvernqing",
+    "type": 0,
+    "brandName": [
+      "Kinera"
+    ],
+    "modelName": [
+      "Celest Wyvern Qing"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kinerafreya",
+    "type": 0,
+    "brandName": [
+      "Kinera"
+    ],
+    "modelName": [
+      "Freya"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kinerasif",
+    "type": 0,
+    "brandName": [
+      "Kinera"
+    ],
+    "modelName": [
+      "SIF"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsaether",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Aether"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsardorancoff",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Ardor (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsardorancon",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Ardor (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsatheia",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Atheia"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsaventusancoff",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Aventus (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsaventusancon",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Aventus (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearscadenza",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Cadenza"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsdivision",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Division"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsellipse",
+    "type": 2,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Ellipse"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearske4",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "KE4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsorchestra",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Orchestra"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsorchestralite",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Orchestra Lite"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsquartetoffoff",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Quartet (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsquartetoffon",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Quartet (off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsquartetonoff",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Quartet (on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsquartetonon",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Quartet (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsquintet",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "Quintet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kiwiearsxcrinaclesingolo",
+    "type": 0,
+    "brandName": [
+      "Kiwi Ears"
+    ],
+    "modelName": [
+      "x Crinacle Singolo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossesp95x",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "ESP95X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossesp95xvesperearpads",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "ESP95X (Vesper earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kosskde250",
+    "type": 2,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "KDE250"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kosskeb90",
+    "type": 0,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "KEB90"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kosskph30i",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "KPH30i"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kosskph40",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "KPH40"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossksc75",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "KSC75"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossportapro",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "Porta Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossportaprodekoniearpads",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "Porta Pro (Dekoni earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossportaprowireless",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "Porta Pro Wireless"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kossportaproyaxiearpads",
+    "type": 1,
+    "brandName": [
+      "Koss"
+    ],
+    "modelName": [
+      "Porta Pro (Yaxi earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzas06",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "AS06"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzas10",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "AS10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzast",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "AST"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzasx",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ASX"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzate",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ATE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzcastoroffoffoffoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "Castor (off-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzcastoroffoffonon",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "Castor (off-off-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzcastoronnoffoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "Castor (on-n-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzcastoronononon",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "Castor (on-on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfioffoffoffoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (off-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfioffoffoffon",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (off-off-off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfionoffoffoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (on-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfiononoffoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (on-on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfionononoff",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (on-on-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdfionononon",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "D-FI (on-on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzdq6",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "DQ6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzedxpro",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "EDX Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzpr1pro",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "PR1 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzsk10",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "SK10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzxcrinaclecrn",
+    "type": 0,
+    "brandName": [
+      "KZ x Crinacle"
+    ],
+    "modelName": [
+      "CRN"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzxhbbpr2",
+    "type": 0,
+    "brandName": [
+      "KZ x HBB"
+    ],
+    "modelName": [
+      "PR2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzex",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZEX"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzs10",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZS10"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzs10pro",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZS10 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzs10prox",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZS10 Pro X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzs7",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZS7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "kzzsnpro",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "ZSN Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "lgtoneultraancoff",
+    "type": 0,
+    "brandName": [
+      "LG"
+    ],
+    "modelName": [
+      "Tone Ultra (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "lgtoneultraancon",
+    "type": 0,
+    "brandName": [
+      "LG"
+    ],
+    "modelName": [
+      "Tone Ultra (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "limeearsmaris",
+    "type": 0,
+    "brandName": [
+      "Lime Ears"
+    ],
+    "modelName": [
+      "Maris"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "limeearsterra",
+    "type": 0,
+    "brandName": [
+      "Lime Ears"
+    ],
+    "modelName": [
+      "Terra"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik3",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik3crossfilter",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K3 (cross filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik3harshfilter",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K3 (harsh filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik3nofilter",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K3 (no filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik5",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik515ohmadapteriematchhigh",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K5 (15 ohm adapter, IEMatch, high)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "magaosik515ohmadapterifiiematchultra",
+    "type": 0,
+    "brandName": [
+      "Magaosi"
+    ],
+    "modelName": [
+      "K5 (15 ohm adapter, iFi IEMatch, ultra)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mangirdtea",
+    "type": 0,
+    "brandName": [
+      "Mangird"
+    ],
+    "modelName": [
+      "Tea"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "massdropgrelloae1signature",
+    "type": 1,
+    "brandName": [
+      "Massdrop"
+    ],
+    "modelName": [
+      "+ Grell OAE1 Signature"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "massdroppanda",
+    "type": 2,
+    "brandName": [
+      "Massdrop"
+    ],
+    "modelName": [
+      "Panda"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "massdropplusuniversaliem",
+    "type": 0,
+    "brandName": [
+      "Massdrop"
+    ],
+    "modelName": [
+      "Plus Universal IEM"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meeaudiom6pro2ndgeneration",
+    "type": 0,
+    "brandName": [
+      "MEE Audio"
+    ],
+    "modelName": [
+      "M6 Pro 2nd Generation"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meizuliveblackfilter",
+    "type": 0,
+    "brandName": [
+      "Meizu"
+    ],
+    "modelName": [
+      "Live (black filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meizulivebluefilter",
+    "type": 0,
+    "brandName": [
+      "Meizu"
+    ],
+    "modelName": [
+      "Live (blue filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meizulivewhitefilter",
+    "type": 0,
+    "brandName": [
+      "Meizu"
+    ],
+    "modelName": [
+      "Live (white filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meze105aer",
+    "type": 1,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "105 Aer"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "meze109pro",
+    "type": 1,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "109 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezealba",
+    "type": 0,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Alba"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezeempyreaniialcantaraearpads",
+    "type": 1,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Empyrean II (alcantara earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezeempyreaniiduoearpads",
+    "type": 1,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Empyrean II (duo earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezeliric",
+    "type": 2,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Liric"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezeliricii",
+    "type": 2,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Liric II"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mezepoet",
+    "type": 2,
+    "brandName": [
+      "Meze"
+    ],
+    "modelName": [
+      "Poet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mimaudiodarkmagician",
+    "type": 0,
+    "brandName": [
+      "MiM Audio"
+    ],
+    "modelName": [
+      "Dark Magician"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "mimaudiodarkmagicianrevised",
+    "type": 0,
+    "brandName": [
+      "MiM Audio"
+    ],
+    "modelName": [
+      "Dark Magician (revised)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "modhouseaudiotungstendoublesidedzmfcalderahybridearpads",
+    "type": 1,
+    "brandName": [
+      "Modhouse Audio"
+    ],
+    "modelName": [
+      "Tungsten Double Sided (ZMF Caldera hybrid earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "modhouseaudiotungstendoublesidedzmfcalderaultraperfearpads",
+    "type": 1,
+    "brandName": [
+      "Modhouse Audio"
+    ],
+    "modelName": [
+      "Tungsten Double Sided (ZMF Caldera Ultra-Perf earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "modhouseaudiotungstensinglesidedzmfcalderahybridearpads",
+    "type": 1,
+    "brandName": [
+      "Modhouse Audio"
+    ],
+    "modelName": [
+      "Tungsten Single Sided (ZMF Caldera Hybrid earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "modhouseaudiotungstensinglesidedzmfcalderaultraperfearpads",
+    "type": 1,
+    "brandName": [
+      "Modhouse Audio"
+    ],
+    "modelName": [
+      "Tungsten Single Sided (ZMF Caldera Ultra-Perf earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "monopricequartet",
+    "type": 0,
+    "brandName": [
+      "Monoprice"
+    ],
+    "modelName": [
+      "Quartet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropalicedefaulteq",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Alice (default EQ)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondroparia",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Aria"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondroparia2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Aria 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropariasnowedition",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Aria Snow Edition"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropblessing3",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Blessing 3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropblock",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "BLOCK"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropchu",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Chu"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropchu2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Chu 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropconcerto",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Concerto"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropcosmo",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Cosmo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropcrescent",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Crescent"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropdarksaber",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Darksaber"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropdroplet",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Droplet"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropgoldenagesmonitoreq",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Golden Ages (monitor eq)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropharmon",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Harmon"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondrophorizon",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Horizon"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropillumination",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Illumination"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropillustrious",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "ILLUSTRIOUS"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropjiu",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Jiu"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropjoker",
+    "type": 2,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Joker"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkadenzlongnozzle",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kadenz (long nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkadenzmediumnozzle",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kadenz (medium nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkadenzshortnozzle",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kadenz (short nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkanaspro",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kanas Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkatogoldnozzle",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kato (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkatosilvernozzle",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Kato (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkxxs",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "KXXS"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropkxxx",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "KXXX"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondroplan",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "LAN"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmay",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "May"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmay35mm",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "May (3.5 mm)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmeteor",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Meteor"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmeteorwideboreeartips",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Meteor (wide bore eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmocareference",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Moca (reference)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropmocastandard",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Moca (standard)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropnekocakeancoff",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Nekocake (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropnekocakeancon",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Nekocake (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropparafenestratedpuearpads",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Para (fenestrated PU earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropparahybridearpads",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Para (hybrid earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropparaii",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Para II"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropquark2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Quark 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropquarks",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Quarks"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropquarksdsp",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Quarks DSP"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondroprays",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Rays"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropraysanalog",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Rays (analog)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondrops8",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "S8"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropsolis",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Solis"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropsolis2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Solis 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropspaceship",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Spaceship"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropspacetravel2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Space Travel 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropspacetravel2ancoff",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Space Travel 2 (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropsparks",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Sparks"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropssp",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "SSP"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropssr",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "SSR"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropssrostry0s100eartips",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "SSR (Ostry 0S100 eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropssrostry0s200eartips",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "SSR (Ostry 0S200 eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropssrostry0s300eartips",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "SSR (Ostry 0S300 eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstardust",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Stardust"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstarfield",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Starfield"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstarfield2",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Starfield 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstarfield2bassplug",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Starfield 2 (bass plug)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstarfield2spinfitcp145eartips",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Starfield 2 (Spinfit CP-145 eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropstellaris",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Stellaris"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropultrasonicreferenceeq",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Ultrasonic (reference EQ)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropvariations",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Variations"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropvenus",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Venus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropvoid",
+    "type": 1,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Void"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropvoyager",
+    "type": 0,
+    "brandName": [
+      "Moondrop"
+    ],
+    "modelName": [
+      "Voyager"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropxcrinacleblessing2dusk",
+    "type": 0,
+    "brandName": [
+      "Moondrop x Crinacle"
+    ],
+    "modelName": [
+      "Blessing2 Dusk"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "moondropxcrinacledusk",
+    "type": 0,
+    "brandName": [
+      "Moondrop x Crinacle"
+    ],
+    "modelName": [
+      "DUSK"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "myeraudiocklvxd62",
+    "type": 0,
+    "brandName": [
+      "MYER-AUDIO"
+    ],
+    "modelName": [
+      "CKLVX D62"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousna2atmosphereeartips",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS NA2+ (Atmosphere eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousna2balancedeartips",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS NA2+ (Balanced eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousna2finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS NA2+ (Final Audio Type E eartips"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousnm2",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS NM2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousra15goldnozzle",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS RA15 (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nfacousra15silvernozzle",
+    "type": 0,
+    "brandName": [
+      "NF"
+    ],
+    "modelName": [
+      "ACOUS RA15 (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nicehcknx8",
+    "type": 0,
+    "brandName": [
+      "NiceHCK"
+    ],
+    "modelName": [
+      "NX8"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nicehcktopguy",
+    "type": 0,
+    "brandName": [
+      "NiceHCK"
+    ],
+    "modelName": [
+      "Topguy"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nightjarsingularity",
+    "type": 0,
+    "brandName": [
+      "Nightjar"
+    ],
+    "modelName": [
+      "Singularity"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nightoblivionbutasturoffoff",
+    "type": 0,
+    "brandName": [
+      "Night"
+    ],
+    "modelName": [
+      "Oblivion Butastur (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nightoblivionbutasturoffon",
+    "type": 0,
+    "brandName": [
+      "Night"
+    ],
+    "modelName": [
+      "Oblivion Butastur (off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nightoblivionbutasturonoff",
+    "type": 0,
+    "brandName": [
+      "Night"
+    ],
+    "modelName": [
+      "Oblivion Butastur (on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nightoblivionbutasturonon",
+    "type": 0,
+    "brandName": [
+      "Night"
+    ],
+    "modelName": [
+      "Oblivion Butastur (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "nothingear2",
+    "type": 0,
+    "brandName": [
+      "Nothing ear"
+    ],
+    "modelName": [
+      "(2)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "openaudiomercury",
+    "type": 0,
+    "brandName": [
+      "OpenAudio"
+    ],
+    "modelName": [
+      "Mercury"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "openaudiosiren",
+    "type": 0,
+    "brandName": [
+      "OpenAudio"
+    ],
+    "modelName": [
+      "Siren"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "oriolusmk2",
+    "type": 0,
+    "brandName": [
+      "Oriolus"
+    ],
+    "modelName": [
+      "Mk2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "oriolustraillii",
+    "type": 0,
+    "brandName": [
+      "Oriolus"
+    ],
+    "modelName": [
+      "Traillii"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "orivetibleqkdynabird",
+    "type": 0,
+    "brandName": [
+      "Oriveti"
+    ],
+    "modelName": [
+      "bleqk Dynabird"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "penonfan3off",
+    "type": 0,
+    "brandName": [
+      "Penon"
+    ],
+    "modelName": [
+      "Fan 3 (off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "penonfan3on",
+    "type": 0,
+    "brandName": [
+      "Penon"
+    ],
+    "modelName": [
+      "Fan 3 (on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "philipsfideliox2hr",
+    "type": 1,
+    "brandName": [
+      "Philips"
+    ],
+    "modelName": [
+      "Fidelio X2HR"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "philipsshe3590pk28",
+    "type": 0,
+    "brandName": [
+      "Philips"
+    ],
+    "modelName": [
+      "SHE3590PK28"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "philipsshp9500",
+    "type": 1,
+    "brandName": [
+      "Philips"
+    ],
+    "modelName": [
+      "SHP9500"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "phonakpfe112",
+    "type": 0,
+    "brandName": [
+      "Phonak"
+    ],
+    "modelName": [
+      "PFE 112"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "plantronicsbackbeatgo600wiredpadswap",
+    "type": 2,
+    "brandName": [
+      "Plantronics"
+    ],
+    "modelName": [
+      "BackBeat Go 600 (wired, pad swap)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "plantronicsbackbeatgo600wirelesspadswap",
+    "type": 2,
+    "brandName": [
+      "Plantronics"
+    ],
+    "modelName": [
+      "BackBeat Go 600 (wireless, pad swap)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "pmgaudioapxse",
+    "type": 0,
+    "brandName": [
+      "PMG Audio"
+    ],
+    "modelName": [
+      "Apx SE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "prismaaudioazul",
+    "type": 0,
+    "brandName": [
+      "Prisma Audio"
+    ],
+    "modelName": [
+      "Azul"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "prismaaudioazulazlasednaeartips",
+    "type": 0,
+    "brandName": [
+      "Prisma Audio"
+    ],
+    "modelName": [
+      "Azul (AZLA Sedna eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "prismaaudioazulfinalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Prisma Audio"
+    ],
+    "modelName": [
+      "Azul (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "prismaaudioazuljvcspiraldoteartips",
+    "type": 0,
+    "brandName": [
+      "Prisma Audio"
+    ],
+    "modelName": [
+      "Azul (JVC Spiral Dot eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "prismaaudioazulspinfiteartips",
+    "type": 0,
+    "brandName": [
+      "Prisma Audio"
+    ],
+    "modelName": [
+      "Azul (SpinFit eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "pulaanvil114",
+    "type": 0,
+    "brandName": [
+      "PULA"
+    ],
+    "modelName": [
+      "Anvil 114"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolev14offoffoffoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole V14 (off-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolev14offoffoffon",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole V14 (off-off-off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolev14offoffonoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole V14 (off-off-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolev14offonoffoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole V14 (off-on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolev14onoffoffoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole V14 (on-off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolevxoffoffoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole VX (off-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolevxoffoffon",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole VX (off-off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolevxoffonoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole VX (off-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcanolevxonoffoff",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Anole VX (on-off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcneptune",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Neptune"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qdcuranus",
+    "type": 0,
+    "brandName": [
+      "qdc"
+    ],
+    "modelName": [
+      "Uranus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qkzxhbb",
+    "type": 0,
+    "brandName": [
+      "QKZ x HBB"
+    ],
+    "modelName": [],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "qkzxhbbhades",
+    "type": 0,
+    "brandName": [
+      "QKZ x HBB"
+    ],
+    "modelName": [
+      "Hades"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "radiushpnef11",
+    "type": 0,
+    "brandName": [
+      "Radius"
+    ],
+    "modelName": [
+      "HP-NEF11"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "raptgohook",
+    "type": 0,
+    "brandName": [
+      "Raptgo"
+    ],
+    "modelName": [
+      "Hook"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "samsungearphonestunedbyakg",
+    "type": 0,
+    "brandName": [
+      "Samsung"
+    ],
+    "modelName": [
+      "Earphones Tuned by AKG"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "samsungearphonestunedbyakg2019",
+    "type": 0,
+    "brandName": [
+      "Samsung"
+    ],
+    "modelName": [
+      "Earphones Tuned by AKG (2019)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "samsunggalaxybuds2pro",
+    "type": 0,
+    "brandName": [
+      "Samsung"
+    ],
+    "modelName": [
+      "Galaxy Buds2 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "samsunggalaxybudsplus",
+    "type": 0,
+    "brandName": [
+      "Samsung"
+    ],
+    "modelName": [
+      "Galaxy Buds Plus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "seeaudiobravery",
+    "type": 0,
+    "brandName": [
+      "SeeAudio"
+    ],
+    "modelName": [
+      "Bravery"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "seeaudioxcrinacleyumemidnight",
+    "type": 0,
+    "brandName": [
+      "SeeAudio x Crinacle"
+    ],
+    "modelName": [
+      "Yume Midnight"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "seeaudioyume",
+    "type": 0,
+    "brandName": [
+      "SeeAudio"
+    ],
+    "modelName": [
+      "Yume"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sendyaiva",
+    "type": 1,
+    "brandName": [
+      "Sendy"
+    ],
+    "modelName": [
+      "Aiva"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd490promixingearpads",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 490 Pro (mixing earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd490proproducingearpads",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 490 Pro (producing earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd505",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 505"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd550",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 550"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd560s",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 560S"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd58x",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 58X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd600",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 600"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd660s",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 660 S"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd6xx",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 6XX"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd800",
+    "type": 1,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 800"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserhd820",
+    "type": 2,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "HD 820"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie200azlamaxeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 200 (AZLA Max eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie200jvcspiraldoteartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 200 (JVC Spiral Dot++ eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie200longnozzle",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 200 (long nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie200shortnozzle",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 200 (short nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie200softearsuceartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 200 (SoftEars UC eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie300",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 300"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie300azlasednalighteartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 300 (AZLA Sedna Light eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie300finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 300 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie40pro",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 40 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600azlasednaeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (AZLA Sedna eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600foameartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (foam eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600moondropspringeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (Moondrop Spring eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600siliconeeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (silicone eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie600spinfiteartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 600 (Spinfit eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie900",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 900"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheiserie900finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "IE 900 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheisermomentumtruewireless2",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "Momentum True Wireless 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sennheisermomentumtruewireless3",
+    "type": 0,
+    "brandName": [
+      "Sennheiser"
+    ],
+    "modelName": [
+      "Momentum True Wireless 3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shanlingme700lite",
+    "type": 0,
+    "brandName": [
+      "Shanling"
+    ],
+    "modelName": [
+      "ME700 Lite"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shozyneocp",
+    "type": 0,
+    "brandName": [
+      "Shozy & Neo"
+    ],
+    "modelName": [
+      "CP"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shozyrouge",
+    "type": 0,
+    "brandName": [
+      "Shozy"
+    ],
+    "modelName": [
+      "Rouge"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoercadenza",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Cadenza"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoercadenza12",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Cadenza 12"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoercadenza4",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Cadenza 4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerd13goldnozzle",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "D13 (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerd13silvernozzle",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "D13 (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerdx1",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Dx1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerdz4",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "DZ4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerej07m",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "EJ07M"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoerej07mkindalavaedition",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "EJ07M Kinda Lava Edition"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoergalileo",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Galileo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoermystic8blackeartips",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Mystic 8 (black eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoermystic8cleareartips",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Mystic 8 (clear eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoermystic8wideeartips",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Mystic 8 (wide eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoers08",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "S08"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoers12",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "S12"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoers15",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "S15"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shuoersinger",
+    "type": 0,
+    "brandName": [
+      "Shuoer"
+    ],
+    "modelName": [
+      "Singer"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shureaonic50",
+    "type": 2,
+    "brandName": [
+      "Shure"
+    ],
+    "modelName": [
+      "AONIC 50"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "shurese215",
+    "type": 0,
+    "brandName": [
+      "Shure"
+    ],
+    "modelName": [
+      "SE215"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea1000blacknozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA1000 (black nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea1000rednozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA1000 (red nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea1000whitenozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA1000 (white nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea500blacknozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA500 (black nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea500lmgoldnozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA500LM (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioea500rednozzle",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EA500 (red nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioem6l",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EM6L"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioen700pro",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EN700 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudioep5",
+    "type": 2,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "EP5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "simgotaudiosupermix4",
+    "type": 0,
+    "brandName": [
+      "Simgot Audio"
+    ],
+    "modelName": [
+      "SuperMix 4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sivgaanser",
+    "type": 1,
+    "brandName": [
+      "Sivga"
+    ],
+    "modelName": [
+      "Anser"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sivgaluan",
+    "type": 1,
+    "brandName": [
+      "Sivga"
+    ],
+    "modelName": [
+      "Luan"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sivganightingale",
+    "type": 0,
+    "brandName": [
+      "Sivga"
+    ],
+    "modelName": [
+      "Nightingale"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sivgaque",
+    "type": 0,
+    "brandName": [
+      "Sivga"
+    ],
+    "modelName": [
+      "Que"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsenigma",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Enigma"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsrsv",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "RSV"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsstudio2",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Studio 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsstudio4",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Studio 4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsstudio4starryversion",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Studio4 Starry Version"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsvolume",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Volume"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsvolumeshighimpedance",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Volume S (high impedance)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "softearsvolumeslowimpedance",
+    "type": 0,
+    "brandName": [
+      "SoftEars"
+    ],
+    "modelName": [
+      "Volume S (low impedance)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonciemeorysw500h",
+    "type": 0,
+    "brandName": [
+      "Soncie"
+    ],
+    "modelName": [
+      "Meory SW500H"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyiernw510n",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "IER-NW510N"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyierz1r",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "IER-Z1R"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyierz1razlasednaeartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "IER-Z1R (AZLA Sedna eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyierz1rsymbioeartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "IER-Z1R (Symbio eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdr7506",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-7506"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdras800",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-AS800"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdrcd900st",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-CD900ST"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdrex15lp",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-EX15LP"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdrmv1",
+    "type": 1,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-MV1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdrv6",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-V6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymdrv6yaxiearpads",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-V6 (Yaxi earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymh1",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MH1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonymh755",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MH755"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm3",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4ancoff",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (ANC off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4ancon",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (ANC on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4azlasednalightshorteartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (AZLA Sedna Light Short eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4bassboostpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Bass Boost preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4brightpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Bright preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4eqoff",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (EQ off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4excitedpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Excited preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4finalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4mellowpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Mellow preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4relaxedpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Relaxed preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4sonywf1000xm3siliconeeartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Sony WF-1000XM3 silicone eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4speechpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Speech preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4spinfiteartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (SpinFit eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4tanchjimapbeartips",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Tanchjim APB eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4trebleboostpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Treble Boost preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm4vocalpreset",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM4 (Vocal preset)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywf1000xm5",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WF-1000XM5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywh1000xm3",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WH-1000XM3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywh1000xm5",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WH-1000XM5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywh1000xm6",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WH-1000XM6"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonywh1000xm6analogcable",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "WH-1000XM6 (analog cable)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyxbaa3",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "XBA-A3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "sonyxban3",
+    "type": 0,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "XBA-N3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "statusaudioiem2x",
+    "type": 0,
+    "brandName": [
+      "Status Audio"
+    ],
+    "modelName": [
+      "IEM-2X"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "symphoniumaudiohelios",
+    "type": 0,
+    "brandName": [
+      "Symphonium Audio"
+    ],
+    "modelName": [
+      "Helios"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "symphoniumaudioheliosse",
+    "type": 0,
+    "brandName": [
+      "Symphonium Audio"
+    ],
+    "modelName": [
+      "Helios SE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "symphoniumaudiometeor",
+    "type": 0,
+    "brandName": [
+      "Symphonium Audio"
+    ],
+    "modelName": [
+      "Meteor"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "symphoniumaudiotitan",
+    "type": 0,
+    "brandName": [
+      "Symphonium Audio"
+    ],
+    "modelName": [
+      "Titan"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "symphoniumaudiotriton",
+    "type": 0,
+    "brandName": [
+      "Symphonium Audio"
+    ],
+    "modelName": [
+      "Triton"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjim4uatmophere",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "4U (atmophere)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjim4umonitoring",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "4U (monitoring)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjim4unatural",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "4U (natural)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjim4upop",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "4U (pop)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimbunnyanalog",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Bunny (analog)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimbunnyusb",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Bunny (USB)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimdarling",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Darling"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimecho",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Echo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissiongoldnozzleatmosphereswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (gold nozzle, atmosphere switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissionnickelnozzleatmosphereswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (nickel nozzle, atmosphere switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissionsilvernozzleatmosphereswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (silver nozzle, atmosphere switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissionsilvernozzlemonitoringswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (silver nozzle, monitoring switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissionsilvernozzlenaturalswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (silver nozzle, natural switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimfissionsilvernozzlepopswitch",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Fission (silver nozzle, pop switch)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimhana",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Hana"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimhana2021",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Hana 2021"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimhanaazlasednalighteartips",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Hana (AZLA Sedna Light eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimhanafinalaudiotypeeeartips",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Hana (Final Audio Type E eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimkara",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Kara"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimola",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Ola"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimolanofilter",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Ola (no filter)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimone35mmcable",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "ONE (3.5 mm cable)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimoneusb",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "One (USB)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimorigindnozzle",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Origin (D nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimoriginlnozzle",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Origin (L nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimoriginsnozzle",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Origin (S nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimoxygen",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Oxygen"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimprismbasseartips",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Prism (bass eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimprismtrebleeartips",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Prism (treble eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimtanya",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Tanya"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tanchjimzero",
+    "type": 0,
+    "brandName": [
+      "Tanchjim"
+    ],
+    "modelName": [
+      "Zero"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tangzuwanersg",
+    "type": 0,
+    "brandName": [
+      "TANGZU"
+    ],
+    "modelName": [
+      "Wan'er S.G"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tangzuxhbbzetianwuheydayedition",
+    "type": 0,
+    "brandName": [
+      "TANGZU x HBB"
+    ],
+    "modelName": [
+      "Zetian Wu Heyday Edition"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tangzuzetianwu",
+    "type": 0,
+    "brandName": [
+      "TANGZU"
+    ],
+    "modelName": [
+      "Zetian Wu"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraishockyellow0brown0",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Shock (yellow 0, brown 0)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraishockyellow0brown4",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Shock (yellow 0, brown 4)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraishockyellow4brown0",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Shock (yellow 4, brown 0)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraishockyellow4brown4",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Shock (yellow 4, brown 4)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraisparkoffonoff",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Spark (off-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraisparkononoff",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Spark (on-on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tansiomiraisparkononon",
+    "type": 0,
+    "brandName": [
+      "Tansio"
+    ],
+    "modelName": [
+      "Mirai Spark (on-on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tenhz3ba",
+    "type": 0,
+    "brandName": [
+      "TENHZ"
+    ],
+    "modelName": [
+      "3BA"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tenhzp4pro",
+    "type": 0,
+    "brandName": [
+      "TENHZ"
+    ],
+    "modelName": [
+      "P4 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tfzno3",
+    "type": 0,
+    "brandName": [
+      "TFZ"
+    ],
+    "modelName": [
+      "No.3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tfzt2galaxy",
+    "type": 0,
+    "brandName": [
+      "TFZ"
+    ],
+    "modelName": [
+      "T2 Galaxy"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudioclairvoyance",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Clairvoyance"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudioelixir",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Elixir"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiohype2",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Hype 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiohype4",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Hype 4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiolegacy2",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Legacy 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiolegacy4offoff",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Legacy 4 (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiolegacy4onon",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Legacy 4 (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiolegacy5",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Legacy 5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiomonarch",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Monarch"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiomonarchmkii",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Monarch MKII"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiomonarchmkiii",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Monarch MKIII"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiomonarchmkiijvcspringeartips",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Monarch MKII (JVC Spring eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiooracle",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Oracle"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiooraclemkii",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Oracle MKII"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudiooraclemkiii",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Oracle MKIII"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thieaudioorigin",
+    "type": 0,
+    "brandName": [
+      "ThieAudio"
+    ],
+    "modelName": [
+      "Origin"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "thinksoundrain3",
+    "type": 0,
+    "brandName": [
+      "Thinksound"
+    ],
+    "modelName": [
+      "Rain3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific0",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C0"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific1",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific2",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific22025",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C2 2025"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific3",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhific5",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "C5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifiduduanalog",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "Dudu (analog)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifiduduusb",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "Dudu (USB)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifip1",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "P1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifip1max",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "P1 Max"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifip1plus",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "P1 Plus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2dlc",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 DLC"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2evo",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Evo"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2plus",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Plus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2plusazlasednalightshorteartips",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Plus (AZLA Sedna Light Short eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2pro",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2procomplyeartipswithwaxguard",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Pro (Comply eartips with Waxguard)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit2prowhitegrillcomplyeartipswithwaxguard",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T2 Pro (white grill, Comply eartips with Waxguard)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit3",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit3plus",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T3 Plus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit4",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T4"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit4plus",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T4 Plus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit5",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T5"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit5complyeartipswithwaxguard",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T5 (Comply eartips with Waxguard)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit5s",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T5S"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifit7",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "T7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tinhifitinbuds3",
+    "type": 0,
+    "brandName": [
+      "Tin HiFi"
+    ],
+    "modelName": [
+      "Tin Buds 3"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tozoa1",
+    "type": 0,
+    "brandName": [
+      "TOZO"
+    ],
+    "modelName": [
+      "A1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowincencibel",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Cencibel"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinkailua",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Kailua"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinleá",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Leá"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinolina",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Olina"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinolinase",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Olina SE"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinrhombus",
+    "type": 0,
+    "brandName": [
+      "Tripowin"
+    ],
+    "modelName": [
+      "Rhombus"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinx0dibivivace",
+    "type": 0,
+    "brandName": [
+      "Tripowin x 0diBi"
+    ],
+    "modelName": [
+      "Vivace"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "tripowinxhbbmele",
+    "type": 0,
+    "brandName": [
+      "Tripowin x HBB"
+    ],
+    "modelName": [
+      "Mele"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "trnim1",
+    "type": 0,
+    "brandName": [
+      "TRN"
+    ],
+    "modelName": [
+      "IM1"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "trnv30",
+    "type": 0,
+    "brandName": [
+      "TRN"
+    ],
+    "modelName": [
+      "V30"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "trnv90",
+    "type": 0,
+    "brandName": [
+      "TRN"
+    ],
+    "modelName": [
+      "V90"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "trutheargate",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Gate"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearhexa",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Hexa"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearhola",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Hola"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearnovablackdoubleflangeeartips",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Nova (black double flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearnovafoameartips",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Nova (foam eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearnovasiliconeeartips",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Nova (silicone eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearnovawhitedoubleflangeeartips",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Nova (white double flange eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearpure",
+    "type": 0,
+    "brandName": [
+      "Truthear"
+    ],
+    "modelName": [
+      "Pure"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearxcrinaclezero",
+    "type": 0,
+    "brandName": [
+      "Truthear x Crinacle"
+    ],
+    "modelName": [
+      "Zero"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearxcrinaclezeroblue2foameartips",
+    "type": 0,
+    "brandName": [
+      "Truthear x Crinacle"
+    ],
+    "modelName": [
+      "Zero Blue 2 (foam eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearxcrinaclezeroblue2siliconeeartips",
+    "type": 0,
+    "brandName": [
+      "Truthear x Crinacle"
+    ],
+    "modelName": [
+      "Zero Blue 2 (silicone eartips)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearxcrinaclezerored",
+    "type": 0,
+    "brandName": [
+      "Truthear x Crinacle"
+    ],
+    "modelName": [
+      "Zero RED"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "truthearxcrinaclezeroredbass",
+    "type": 0,
+    "brandName": [
+      "Truthear x Crinacle"
+    ],
+    "modelName": [
+      "Zero RED (Bass+)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "twisturawoodnotegoldnozzle",
+    "type": 0,
+    "brandName": [
+      "TWISTURA"
+    ],
+    "modelName": [
+      "Woodnote (gold nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "twisturawoodnotesilvernozzle",
+    "type": 0,
+    "brandName": [
+      "TWISTURA"
+    ],
+    "modelName": [
+      "Woodnote (silver nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "twisturawoodnotesteelnozzle",
+    "type": 0,
+    "brandName": [
+      "TWISTURA"
+    ],
+    "modelName": [
+      "Woodnote (steel nozzle)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ucotechre2",
+    "type": 0,
+    "brandName": [
+      "Ucotech"
+    ],
+    "modelName": [
+      "RE-2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "uniquemelodymest",
+    "type": 0,
+    "brandName": [
+      "Unique"
+    ],
+    "modelName": [
+      "Melody MEST"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "uniquemelodymestmk2",
+    "type": 0,
+    "brandName": [
+      "Unique"
+    ],
+    "modelName": [
+      "Melody MEST Mk2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "visionearsve7",
+    "type": 0,
+    "brandName": [
+      "Vision Ears"
+    ],
+    "modelName": [
+      "VE7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "visionearsve8",
+    "type": 0,
+    "brandName": [
+      "Vision Ears"
+    ],
+    "modelName": [
+      "VE8"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "vsonicgr07",
+    "type": 0,
+    "brandName": [
+      "VSonic"
+    ],
+    "modelName": [
+      "GR07"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "vsonicgr07bassedition",
+    "type": 0,
+    "brandName": [
+      "VSonic"
+    ],
+    "modelName": [
+      "GR07 Bass Edition"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "vsonicvs7",
+    "type": 0,
+    "brandName": [
+      "VSonic"
+    ],
+    "modelName": [
+      "VS7"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "xennsmangirdtea",
+    "type": 0,
+    "brandName": [
+      "Xenns"
+    ],
+    "modelName": [
+      "Mangird Tea"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "xennsmangirdtea2",
+    "type": 0,
+    "brandName": [
+      "Xenns"
+    ],
+    "modelName": [
+      "Mangird Tea2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "xennsmangirdtop",
+    "type": 0,
+    "brandName": [
+      "Xenns"
+    ],
+    "modelName": [
+      "Mangird Top"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "xennsmangirdtoppro",
+    "type": 0,
+    "brandName": [
+      "Xenns"
+    ],
+    "modelName": [
+      "Mangird Top Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "xiaomimitruewirelessearbudsbasic2",
+    "type": 0,
+    "brandName": [
+      "Xiaomi"
+    ],
+    "modelName": [
+      "Mi True Wireless Earbuds Basic 2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanoniioffoff",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon II (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanoniioffon",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon II (off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanoniionoff",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon II (on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanoniionon",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon II (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanonprooffoff",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon Pro (off-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanonprooffon",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon Pro (off-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanonproonoff",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon Pro (on-off)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyincanonproonon",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Canon Pro (on-on)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yanyinmahina",
+    "type": 0,
+    "brandName": [
+      "Yanyin"
+    ],
+    "modelName": [
+      "Mahina"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yinfumd51",
+    "type": 0,
+    "brandName": [
+      "Yinfu"
+    ],
+    "modelName": [
+      "MD51"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "yinyoov2",
+    "type": 0,
+    "brandName": [
+      "Yinyoo"
+    ],
+    "modelName": [
+      "V2"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ziigaatarcanis",
+    "type": 0,
+    "brandName": [
+      "ZiiGaat"
+    ],
+    "modelName": [
+      "Arcanis"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ziigaatestrella",
+    "type": 0,
+    "brandName": [
+      "ZiiGaat"
+    ],
+    "modelName": [
+      "Estrella"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "ziigaatlush",
+    "type": 0,
+    "brandName": [
+      "ZiiGaat"
+    ],
+    "modelName": [
+      "Lush"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfatriumsolidmeshperforatedlambskinearpads",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Atrium (solid mesh, perforated lambskin earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfatriumsolidmeshperforatedsuedeearpads",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Atrium (solid mesh, perforated suede earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfauteurclassic",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Auteur Classic"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfauteurclassiczmfcalderahybridearpads",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Auteur Classic (ZMF Caldera hybrid earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfauteurclassiczmfcalderalambskinearpads",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Auteur Classic (ZMF Caldera lambskin earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfauteurclassiczmfcalderasuedeearpads",
+    "type": 1,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Auteur Classic (ZMF Caldera suede earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadsblackmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, black mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadsburstmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, burst mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadsgreenmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, green mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadsnomesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, no mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadsredmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, red mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedhybridearpadssolidmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (hybrid earpads, solid mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedlambskinearpadsredmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (lambskin earpads, red mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedproteinearpadsburstmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (protein earpads, burst mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedproteinearpadsredmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (protein earpads, red mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedsuedeearpadsburstmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (suede earpads, burst mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "zmfbokehclosedsuedeearpadsredmesh",
+    "type": 2,
+    "brandName": [
+      "ZMF"
+    ],
+    "modelName": [
+      "Bokeh Closed (suede earpads, red mesh)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  }
+]
