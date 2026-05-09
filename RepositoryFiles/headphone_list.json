@@ -621,7 +621,7 @@
       "K371"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "akgk712",
@@ -633,7 +633,7 @@
       "K712"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "akgk7xx",
@@ -645,7 +645,7 @@
       "K7XX"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "akgq701",
@@ -657,7 +657,7 @@
       "Q701"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "akoustyxr120",
@@ -837,7 +837,7 @@
       "LCD-2 Closed Back"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "audezemm500",
@@ -849,7 +849,7 @@
       "MM-500"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "audiosenseaq7",
@@ -933,7 +933,7 @@
       "Everest"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "auribusacousticssierraopen",
@@ -945,7 +945,7 @@
       "Sierra Open"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "austrianaudiohix60",
@@ -957,7 +957,7 @@
       "Hi-X60"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "beyerdynamicdt770pro32ohm",
@@ -969,7 +969,7 @@
       "DT 770 Pro (32 ohm)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "beyerdynamicdt880600ohm",
@@ -981,7 +981,7 @@
       "DT 880 (600 ohm)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "beyerdynamicdt900prox",
@@ -993,7 +993,7 @@
       "DT 900 Pro X"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "bgvpdm6",
@@ -1557,7 +1557,7 @@
       "Aurvana Live!"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "creativeaurvanalivebrainwavzsmallovalperforatedearpads",
@@ -1569,7 +1569,7 @@
       "Aurvana Live! (Brainwavz small oval perforated earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "crineardaybreak",
@@ -1617,7 +1617,7 @@
       "E3"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "danclarkaudioexpanse",
@@ -1629,7 +1629,7 @@
       "EXPANSE"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "danclarkaudiostealth",
@@ -1641,7 +1641,7 @@
       "Stealth"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "ditaaudiomecha",
@@ -1665,7 +1665,7 @@
       "Project Omega"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "dunudk3001bd",
@@ -2277,7 +2277,7 @@
       "O2"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "etymoticer2se",
@@ -2889,7 +2889,7 @@
       "FT1"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiioft1pro",
@@ -2901,7 +2901,7 @@
       "FT1 Pro"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiioft5pleatherearpads",
@@ -2913,7 +2913,7 @@
       "FT5 (pleather earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiioft5suedeearpads",
@@ -2925,7 +2925,7 @@
       "FT5 (suede earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiioft7fabricearpads",
@@ -2937,7 +2937,7 @@
       "FT7 (fabric earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiioft7leatherearpads",
@@ -2949,7 +2949,7 @@
       "FT7 (leather earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fiiofw5",
@@ -3081,7 +3081,7 @@
       "UX3000"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "finalaudioux3000svanalogconnection",
@@ -3093,7 +3093,7 @@
       "UX3000 SV (analog connection)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "finalaudioux3000svancoff",
@@ -3105,7 +3105,7 @@
       "UX3000 SV (ANC off)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "finalaudioux3000svancon",
@@ -3117,7 +3117,7 @@
       "UX3000 SV (ANC on)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "finalaudiovr3000",
@@ -3261,7 +3261,7 @@
       "Azurys"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalbathysusb",
@@ -3273,7 +3273,7 @@
       "Bathys (USB)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalbathyswired",
@@ -3285,7 +3285,7 @@
       "Bathys (wired)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalbathyswireless",
@@ -3297,7 +3297,7 @@
       "Bathys (wireless)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalcelestee",
@@ -3309,7 +3309,7 @@
       "Celestee"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalclearmgprofessional",
@@ -3321,7 +3321,7 @@
       "Clear MG Professional"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalelex",
@@ -3333,7 +3333,7 @@
       "Elex"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalelexwornearpads",
@@ -3345,7 +3345,7 @@
       "Elex (worn earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalradiance",
@@ -3357,7 +3357,7 @@
       "Radiance"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "focalutopia2022",
@@ -3369,7 +3369,7 @@
       "Utopia 2022"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fosiaudioi5",
@@ -3381,7 +3381,7 @@
       "i5"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "fostext50rpmk4",
@@ -3393,7 +3393,7 @@
       "T50RP Mk4"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "gradogw100bluetooth",
@@ -3405,7 +3405,7 @@
       "GW100 (bluetooth)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "gradogw100wired",
@@ -3417,7 +3417,7 @@
       "GW100 (wired)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "gradosr80lcushearpads",
@@ -3429,7 +3429,7 @@
       "SR80 (L-Cush earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "gradosr80scushearpads",
@@ -3441,7 +3441,7 @@
       "SR80 (S-Cush earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "gsaudiogd3a",
@@ -3501,7 +3501,7 @@
       "Poseidon"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "harmonicdynezeus",
@@ -3513,7 +3513,7 @@
       "Zeus"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "harmonicdynezeuselite",
@@ -3525,7 +3525,7 @@
       "Zeus Elite"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "haylougt1",
@@ -3561,7 +3561,7 @@
       "HEDDphone Two GT (leather earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "heddheddphone2",
@@ -3573,7 +3573,7 @@
       "Heddphone 2"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "heddheddphonetwogtleatherearpads",
@@ -3585,7 +3585,7 @@
       "HEDDphone Two GT (leather earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "heddheddphonetwogtsuedeearpads",
@@ -3597,7 +3597,7 @@
       "HEDDphone Two GT (suede earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hibycrystal6",
@@ -3669,7 +3669,7 @@
       "Dahlia (balanced resonator)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hififoralldahliadynamicresonator",
@@ -3681,7 +3681,7 @@
       "Dahlia (dynamic resonator)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hifimananandanano",
@@ -3693,7 +3693,7 @@
       "Ananda Nano"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hifimanbolt",
@@ -3717,7 +3717,7 @@
       "Edition XS"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hifimansundara",
@@ -3729,7 +3729,7 @@
       "Sundara"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "hifriaudioaphex",
@@ -3909,7 +3909,7 @@
       "Y3"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "ikkooh1",
@@ -4029,7 +4029,7 @@
       "Editions XTC^2.5 Closed"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "juzear41t",
@@ -4317,7 +4317,7 @@
       "Ardor (ANC off)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearsardorancon",
@@ -4329,7 +4329,7 @@
       "Ardor (ANC on)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearsatheia",
@@ -4341,7 +4341,7 @@
       "Atheia"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearsaventusancoff",
@@ -4353,7 +4353,7 @@
       "Aventus (ANC off)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearsaventusancon",
@@ -4365,7 +4365,7 @@
       "Aventus (ANC on)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearscadenza",
@@ -4389,7 +4389,7 @@
       "Division"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearsellipse",
@@ -4401,7 +4401,7 @@
       "Ellipse"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kiwiearske4",
@@ -4521,7 +4521,7 @@
       "ESP95X"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossesp95xvesperearpads",
@@ -4533,7 +4533,7 @@
       "ESP95X (Vesper earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kosskde250",
@@ -4545,7 +4545,7 @@
       "KDE250"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kosskeb90",
@@ -4569,7 +4569,7 @@
       "KPH30i"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kosskph40",
@@ -4581,7 +4581,7 @@
       "KPH40"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossksc75",
@@ -4593,7 +4593,7 @@
       "KSC75"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossportapro",
@@ -4605,7 +4605,7 @@
       "Porta Pro"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossportaprodekoniearpads",
@@ -4617,7 +4617,7 @@
       "Porta Pro (Dekoni earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossportaprowireless",
@@ -4629,7 +4629,7 @@
       "Porta Pro Wireless"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kossportaproyaxiearpads",
@@ -4641,7 +4641,7 @@
       "Porta Pro (Yaxi earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "kzas06",
@@ -5121,7 +5121,7 @@
       "OAE1 Signature"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "massdroppanda",
@@ -5133,7 +5133,7 @@
       "Panda"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "massdropplusuniversaliem",
@@ -5205,7 +5205,7 @@
       "105 Aer"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "meze109pro",
@@ -5217,7 +5217,7 @@
       "109 Pro"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mezealba",
@@ -5241,7 +5241,7 @@
       "Empyrean II (alcantara earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mezeempyreaniiduoearpads",
@@ -5253,7 +5253,7 @@
       "Empyrean II (duo earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mezeliric",
@@ -5265,7 +5265,7 @@
       "Liric"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mezeliricii",
@@ -5277,7 +5277,7 @@
       "Liric II"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mezepoet",
@@ -5289,7 +5289,7 @@
       "Poet"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "mimaudiodarkmagician",
@@ -5325,7 +5325,7 @@
       "Tungsten Double Sided (ZMF Caldera hybrid earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "modhouseaudiotungstendoublesidedzmfcalderaultraperfearpads",
@@ -5337,7 +5337,7 @@
       "Tungsten Double Sided (ZMF Caldera Ultra-Perf earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "modhouseaudiotungstensinglesidedzmfcalderahybridearpads",
@@ -5349,7 +5349,7 @@
       "Tungsten Single Sided (ZMF Caldera Hybrid earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "modhouseaudiotungstensinglesidedzmfcalderaultraperfearpads",
@@ -5361,7 +5361,7 @@
       "Tungsten Single Sided (ZMF Caldera Ultra-Perf earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "monopricequartet",
@@ -5493,7 +5493,7 @@
       "Cosmo"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropcrescent",
@@ -5565,7 +5565,7 @@
       "Horizon"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropillumination",
@@ -5613,7 +5613,7 @@
       "Joker"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropkadenzlongnozzle",
@@ -5829,7 +5829,7 @@
       "Para (fenestrated PU earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropparahybridearpads",
@@ -5841,7 +5841,7 @@
       "Para (hybrid earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropparaii",
@@ -5853,7 +5853,7 @@
       "Para II"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropquark2",
@@ -6165,7 +6165,7 @@
       "Venus"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropvoid",
@@ -6177,7 +6177,7 @@
       "Void"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "moondropvoyager",
@@ -6489,7 +6489,7 @@
       "Fidelio X2HR"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "philipsshe3590pk28",
@@ -6513,7 +6513,7 @@
       "SHP9500"
     ],
     "version": 1,
-    "noDspOffsetDb": -2
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "phonakpfe112",
@@ -6537,7 +6537,7 @@
       "BackBeat Go 600 (wired, pad swap)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "plantronicsbackbeatgo600wirelesspadswap",
@@ -6549,7 +6549,7 @@
       "BackBeat Go 600 (wireless, pad swap)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "pmgaudioapxse",
@@ -6907,7 +6907,7 @@
       "Aiva"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd490promixingearpads",
@@ -6919,7 +6919,7 @@
       "HD 490 Pro (mixing earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd490proproducingearpads",
@@ -6931,7 +6931,7 @@
       "HD 490 Pro (producing earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd505",
@@ -6943,7 +6943,7 @@
       "HD 505"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd550",
@@ -6955,7 +6955,7 @@
       "HD 550"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd560s",
@@ -6967,7 +6967,7 @@
       "HD 560S"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd58x",
@@ -6979,7 +6979,7 @@
       "HD 58X"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd600",
@@ -6991,7 +6991,7 @@
       "HD 600"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd660s",
@@ -7003,7 +7003,7 @@
       "HD 660 S"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd6xx",
@@ -7015,7 +7015,7 @@
       "HD 6XX"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd800",
@@ -7027,7 +7027,7 @@
       "HD 800"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserhd820",
@@ -7039,7 +7039,7 @@
       "HD 820"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sennheiserie200azlamaxeartips",
@@ -7519,7 +7519,7 @@
       "AONIC 50"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "shurese215",
@@ -7639,7 +7639,7 @@
       "EP5"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "simgotaudiosupermix4",
@@ -7663,7 +7663,7 @@
       "Anser"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sivgaluan",
@@ -7675,7 +7675,7 @@
       "Luan"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sivganightingale",
@@ -7867,7 +7867,7 @@
       "MDR-7506"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonymdras800",
@@ -7891,7 +7891,7 @@
       "MDR-CD900ST"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonymdrex15lp",
@@ -7915,7 +7915,7 @@
       "MDR-MV1"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonymdrv6",
@@ -7927,7 +7927,7 @@
       "MDR-V6"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonymdrv6yaxiearpads",
@@ -7939,7 +7939,7 @@
       "MDR-V6 (Yaxi earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonymh1",
@@ -8191,7 +8191,7 @@
       "WH-1000XM3"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonywh1000xm5",
@@ -8203,7 +8203,7 @@
       "WH-1000XM5"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonywh1000xm6",
@@ -8215,7 +8215,7 @@
       "WH-1000XM6"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonywh1000xm6analogcable",
@@ -8227,7 +8227,7 @@
       "WH-1000XM6 (analog cable)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "sonyxbaa3",
@@ -10075,7 +10075,7 @@
       "Atrium (solid mesh, perforated lambskin earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfatriumsolidmeshperforatedsuedeearpads",
@@ -10087,7 +10087,7 @@
       "Atrium (solid mesh, perforated suede earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfauteurclassic",
@@ -10099,7 +10099,7 @@
       "Auteur Classic"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfauteurclassiczmfcalderahybridearpads",
@@ -10111,7 +10111,7 @@
       "Auteur Classic (ZMF Caldera hybrid earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfauteurclassiczmfcalderalambskinearpads",
@@ -10123,7 +10123,7 @@
       "Auteur Classic (ZMF Caldera lambskin earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfauteurclassiczmfcalderasuedeearpads",
@@ -10135,7 +10135,7 @@
       "Auteur Classic (ZMF Caldera suede earpads)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadsblackmesh",
@@ -10147,7 +10147,7 @@
       "Bokeh Closed (hybrid earpads, black mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadsburstmesh",
@@ -10159,7 +10159,7 @@
       "Bokeh Closed (hybrid earpads, burst mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadsgreenmesh",
@@ -10171,7 +10171,7 @@
       "Bokeh Closed (hybrid earpads, green mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadsnomesh",
@@ -10183,7 +10183,7 @@
       "Bokeh Closed (hybrid earpads, no mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadsredmesh",
@@ -10195,7 +10195,7 @@
       "Bokeh Closed (hybrid earpads, red mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedhybridearpadssolidmesh",
@@ -10207,7 +10207,7 @@
       "Bokeh Closed (hybrid earpads, solid mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedlambskinearpadsredmesh",
@@ -10219,7 +10219,7 @@
       "Bokeh Closed (lambskin earpads, red mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedproteinearpadsburstmesh",
@@ -10231,7 +10231,7 @@
       "Bokeh Closed (protein earpads, burst mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedproteinearpadsredmesh",
@@ -10243,7 +10243,7 @@
       "Bokeh Closed (protein earpads, red mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedsuedeearpadsburstmesh",
@@ -10255,7 +10255,7 @@
       "Bokeh Closed (suede earpads, burst mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   },
   {
     "id": "zmfbokehclosedsuedeearpadsredmesh",
@@ -10267,6 +10267,6 @@
       "Bokeh Closed (suede earpads, red mesh)"
     ],
     "version": 1,
-    "noDspOffsetDb": 0.0
+    "noDspOffsetDb": -1.5
   }
 ]
