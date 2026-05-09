@@ -1179,10 +1179,10 @@
     "id": "binaryacousticsxgizaudiochopin",
     "type": 0,
     "brandName": [
-      "Binary Acoustics"
+      "Binary Acoustics x Gizaudio"
     ],
     "modelName": [
-      "x Gizaudio Chopin"
+      "Chopin"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -1611,10 +1611,10 @@
     "id": "danclarkaudioe3",
     "type": 2,
     "brandName": [
-      "Dan"
+      "Dan Clark Audio"
     ],
     "modelName": [
-      "Clark Audio E3"
+      "E3"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -1623,10 +1623,10 @@
     "id": "danclarkaudioexpanse",
     "type": 1,
     "brandName": [
-      "Dan"
+      "Dan Clark Audio"
     ],
     "modelName": [
-      "Clark Audio EXPANSE"
+      "EXPANSE"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -1635,10 +1635,10 @@
     "id": "danclarkaudiostealth",
     "type": 2,
     "brandName": [
-      "Dan"
+      "Dan Clark Audio"
     ],
     "modelName": [
-      "Clark Audio Stealth"
+      "Stealth"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -2043,10 +2043,10 @@
     "id": "effectaudioxelysiangaea",
     "type": 0,
     "brandName": [
-      "Effect Audio"
+      "Effect Audio x Elysian"
     ],
     "modelName": [
-      "x Elysian Gaea"
+      "Gaea"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -4503,10 +4503,10 @@
     "id": "kiwiearsxcrinaclesingolo",
     "type": 0,
     "brandName": [
-      "Kiwi Ears"
+      "Kiwi Ears x Crinacle"
     ],
     "modelName": [
-      "x Crinacle Singolo"
+      "Singolo"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -5115,10 +5115,10 @@
     "id": "massdropgrelloae1signature",
     "type": 1,
     "brandName": [
-      "Massdrop"
+      "Massdrop + Grell"
     ],
     "modelName": [
-      "+ Grell OAE1 Signature"
+      "OAE1 Signature"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6231,10 +6231,10 @@
     "id": "nfacousna2atmosphereeartips",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS NA2+ (Atmosphere eartips)"
+      "NA2+ (Atmosphere eartips)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6243,10 +6243,10 @@
     "id": "nfacousna2balancedeartips",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS NA2+ (Balanced eartips)"
+      "NA2+ (Balanced eartips)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6255,10 +6255,10 @@
     "id": "nfacousna2finalaudiotypeeeartips",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS NA2+ (Final Audio Type E eartips"
+      "NA2+ (Final Audio Type E eartips"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6267,10 +6267,10 @@
     "id": "nfacousnm2",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS NM2"
+      "NM2"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6279,10 +6279,10 @@
     "id": "nfacousra15goldnozzle",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS RA15 (gold nozzle)"
+      "RA15 (gold nozzle)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6291,10 +6291,10 @@
     "id": "nfacousra15silvernozzle",
     "type": 0,
     "brandName": [
-      "NF"
+      "NF ACOUS"
     ],
     "modelName": [
-      "ACOUS RA15 (silver nozzle)"
+      "RA15 (silver nozzle)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -6387,10 +6387,10 @@
     "id": "nothingear2",
     "type": 0,
     "brandName": [
-      "Nothing ear"
+      "Nothing"
     ],
     "modelName": [
-      "(2)"
+      "ear (2)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
