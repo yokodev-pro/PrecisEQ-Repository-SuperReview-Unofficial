@@ -3663,10 +3663,10 @@
     "id": "hififoralldahliabalancedresonator",
     "type": 1,
     "brandName": [
-      "HIFI"
+      "HIFI FOR ALL"
     ],
     "modelName": [
-      "FOR ALL Dahlia (balanced resonator)"
+      "Dahlia (balanced resonator)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
@@ -3675,10 +3675,10 @@
     "id": "hififoralldahliadynamicresonator",
     "type": 1,
     "brandName": [
-      "HIFI"
+      "HIFI FOR ALL"
     ],
     "modelName": [
-      "FOR ALL Dahlia (dynamic resonator)"
+      "Dahlia (dynamic resonator)"
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
